@@ -12,7 +12,5 @@ However, the management noticed a decline in their active users and revenue grow
    You are a Data Analyst who has been provided with sample data and a mock-up dashboard
 
    Create the metrics according to the metric list.
-
-   Create a dashboard according to the mock-up provided by stakeholders.
-
-   Create relevant insights that are not provided in the metric list/mock-up dashboard.
+   
+   Create relevant insights that are not provided in the metric list.
